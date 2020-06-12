@@ -6,5 +6,7 @@ Tensorflow-gpu 1.14
 
 
 from PIL import Image
+
 import glob
+
 import numpy as np
