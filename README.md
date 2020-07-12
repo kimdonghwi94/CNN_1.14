@@ -10,3 +10,5 @@ from PIL import Image
 import glob
 
 import numpy as np
+
+https://youtu.be/KlpAcU5lqmc
