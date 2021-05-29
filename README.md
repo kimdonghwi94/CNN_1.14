@@ -11,4 +11,4 @@ import glob
 
 import numpy as np
 수업 영상
-https://youtu.be/KlpAcU5lqmc
+### https://youtu.be/KlpAcU5lqmc
